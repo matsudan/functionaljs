@@ -104,7 +104,6 @@ describe('functional model', () => {
       ).to.eql(
         5
       );
-      next();
     });
   });
 });
